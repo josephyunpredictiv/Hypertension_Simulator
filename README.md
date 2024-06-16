@@ -1,6 +1,6 @@
 # 프리딕티브 고혈압과 합병증 시뮬레이터
 ### Powered and managed by Predictiv Care, Inc.
-#### NOTE: The data file provided is not real data. It has been modified with random numbers and ids to hide patient information. Any overlaps with real data or ID's is purely coincidential.
+##### NOTE: The data file provided is not real data. It has been modified with random numbers and ids to hide patient information. Any overlaps with real data or ID's is purely coincidential.
 ## Installation & Setup
 
 Instructions are for mac but you will be able to still do this on windows
